@@ -18,10 +18,10 @@ ideal_value_ball <- 0.05
 ideal_value_f <- 0.02 #ideal friction factor from moody diagram
 
 # Lengths in inches (convert to meters for calculations) 
-length1 <- 1 * 0.0254 # inches to meters
-length2 <- 1 * 0.0254 # inches to meters
-length3 <- 1 * 0.0254 # inches to meters
-length4 <- 1 * 0.0254 # inches to meters
+length1 <- (20+32.5/2) * 0.0254 # inches to meters
+length2 <- (32.5 + 36)/2 * 0.0254 # inches to meters
+length3 <- (31 +36) / 2 * 0.0254 # inches to meters
+length4 <- (31 +32.5) / 2 * 0.0254 # inches to meters
 
 
 
